@@ -24,7 +24,7 @@ if(($_POST["rig"] == "leaders")) {
 	echo $err;
 	die;
 }
-// if after all of this, the error code is still "none", something went wrong !!
+// if after all of this, the error code is still "none", the answer was wrong so, lmao
 if($err == "none") {
 	$err = file_get_contents("./err/nope.html");
 	echo $err;
