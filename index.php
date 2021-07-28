@@ -1,18 +1,5 @@
 <br>
 <title>FILL THE BLANK</title>
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-6353HKCRWH"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-6353HKCRWH');
-</script>
- <meta content="FILL THE BLANK" property="og:title">
-  <meta content="WHAT DID DONALD SAY?" property="og:description">
-    <meta content="https://coveryourselfinoil.com/blank" property="og:url">
-    <meta content="https://coveryourselfinoil.com/oilcon.png" property="og:image">
-    <meta content="#FFA500" data-react-helmet="true" name="theme-color">
 <style>
 @font-face {
   font-family: "Impact";
